@@ -1,0 +1,6 @@
+C:\Users\rick-\Documents\Neues Spiel\.mono\temp\bin\Debug\GodotExemplo.dll
+C:\Users\rick-\Documents\Neues Spiel\.mono\temp\bin\Debug\GodotExemplo.pdb
+C:\Users\rick-\Documents\Neues Spiel\.mono\temp\obj\Debug\GodotExemplo.csprojAssemblyReference.cache
+C:\Users\rick-\Documents\Neues Spiel\.mono\temp\obj\Debug\GodotExemplo.csproj.CoreCompileInputs.cache
+C:\Users\rick-\Documents\Neues Spiel\.mono\temp\obj\Debug\GodotExemplo.dll
+C:\Users\rick-\Documents\Neues Spiel\.mono\temp\obj\Debug\GodotExemplo.pdb
