@@ -1,7 +1,9 @@
 extends Node2D
 
+const GrassEffect = preload("res://Effects/GrassEffect.tscn")
+
 func create_grass_effect():
-	var grassEffect = load("res://Effects/GrassEffect.tscn").instance()
+	var grassEffect = GrassEffect.instance()
 	grassEffect.position = position
 	get_parent().add_child(grassEffect)
 	# another way:
