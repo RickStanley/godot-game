@@ -22,6 +22,10 @@ onready var playerDetectionZone = $PlayerDetectionZone
 onready var sprite = $Sprite
 onready var hurtbox = $Hurtbox
 
+func _ready():
+	var numFrames = sprite.frames.get_frame_count("fly")
+	sprite.frame = randi() % numFrames + 1
+
 func _physics_process(delta):
 	knockback = knockback.move_toward(Vector2.ZERO, FRICTION * delta)
 	knockback = move_and_slide(knockback)
